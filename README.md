@@ -1,4 +1,4 @@
 # learning
 my first repo
 <br/>
-autor - israr ul haq
+autor - israr ul haq(hi)
